@@ -28,3 +28,7 @@ coverage/
 dist/
 build/
 node_modules/
+
+# Logs and temp
+*.log
+.cache/
