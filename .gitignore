@@ -22,3 +22,9 @@ yarn-error.log*
 # Coverage and cache
 coverage/
 .cache/
+
+# Angular cache and build artifacts
+.angular/
+dist/
+build/
+node_modules/
